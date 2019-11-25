@@ -1,0 +1,34 @@
+.pagecontent {
+    padding-top: 30px;
+}
+
+.sidebar {
+  padding: 30px;
+}
+
+.content {
+  padding: 30px;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+li {
+    margin: 10px 0;
+  }
+
+a {
+  color: black;
+}
+
+#title {
+  color:#0666bf;
+  font-size: large;
+}
+
+@media screen and (max-width: 1000px) {
+  #menulist {
+    display: none;
+  }
+}
